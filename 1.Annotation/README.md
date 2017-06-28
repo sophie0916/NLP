@@ -7,7 +7,9 @@ Example of Adjective Annotation using the nMae program
 
 - To load Mae, run the following code on a UNIX command line: 
 
+	```
 	java -jar nMAE.jar
+	```
 
 - To load the adjective dtd file:
 	
