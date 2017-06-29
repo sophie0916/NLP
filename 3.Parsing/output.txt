@@ -1,0 +1,5 @@
+(S
+  (NP (DT Any) (NG (JJ habitable) (NG (NNS areas))))
+  (VP
+    (VBP are)
+    (PP (IN in) (NP (DT the) (NG (NN border) (NN region))))))

@@ -1,0 +1,21 @@
+
+S ( NP (NNS Scientists) )
+  ( VP (VBP think)
+       (SBAR (IN that)
+             (S (NP (NP (DT any)
+                        (NG (JJ heritable)
+                            (NNS areas)))
+                    (PP (IN on)
+                        (NP (DT the)
+                            (NN planet))))
+                (VP (VBP are)
+                    (PP (IN in)
+                        (NP (DT the)
+                            (NG (NN border)
+                                (NN region))))))))
+
+
+
+
+S ( NP (NNS Scientists) )( VP (VBP think) (SBAR (IN that) (S (NP (NP (DT any) (NG (JJ heritable) (NNS areas))) (PP (IN on) (NP (DT the) (NN planet)))) (VP (VBP are) (PP (IN in) (NP (DT the) (NG (NN border) (NN region))))))))
+
