@@ -43,13 +43,13 @@
 
 	- To run parser program, run the following code on a UNIX command line: 
 
-``` 
-python parse.py
+	``` 
+	python parse.py
 
-or
+	or
 
-python parse.py > output.txt
-```
+	python parse.py > output.txt
+	```
 
 
 
