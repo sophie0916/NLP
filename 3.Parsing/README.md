@@ -41,9 +41,10 @@
 
 	- Program file: parse.py
 
-	- To load Mae, run the following code on a UNIX command line: 
+	- To run parser program, run the following code on a UNIX command line: 
 
-``` python parse.py
+``` 
+python parse.py
 
 or
 
